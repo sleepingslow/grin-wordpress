@@ -2,8 +2,8 @@
 /*
 Plugin Name: GRIN Payment Gateway
 Description: Accept GRIN payments using Slatepack protocol
-Version: 1.0
-Author: Your Name
+Version: 0.1
+Author: Az0te
 */
 
 // Prevent direct access
